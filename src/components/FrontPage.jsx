@@ -38,7 +38,7 @@ const FrontPage = ({ setFrontPage, setCertificateData }) => {
   };
 
   // List of enrollment numbers that should always use backup data
-  const alwaysUseBackup = ['CTU2500072', 'CTU2500128', 'CTU2500094'];
+  const alwaysUseBackup = ['CTU2500072', 'CTU2500128', 'CTU2500094', 'CTU2500579'];
 
   const fetchCertificateData = async (regNo, DOB) => {
     // Check if this enrollment should always use backup data
