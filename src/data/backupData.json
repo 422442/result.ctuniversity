@@ -32,7 +32,7 @@
       "Basic Computer Skills Lab"
     ],
     "GPS": [
-      "6",
+      "0",
       "8",
       "7",
       "9",
@@ -58,7 +58,7 @@
       "1"
     ],
     "GRADES": [
-      "B",
+      "F",
       "A",
       "B+",
       "A+",
@@ -70,9 +70,9 @@
       "B+",
       "A+"
     ],
-    "STATUS": "PASS",
-    "PERCENTAGE": "71.92",
-    "SGPA": "7.19",
+    "STATUS": "RE",
+    "PERCENTAGE": "64.62",
+    "SGPA": "6.46",
     "EXAM_MONTH_YEAR": "december , 2025"
   },
   "CTU2502107,21-07-2004": {
